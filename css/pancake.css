@@ -1,0 +1,34 @@
+*{
+  margin: auto;
+}
+
+h1, h2{
+  color: #2f27ce;
+
+  text-align: center;
+}
+
+img{
+  justify-content: right;
+}
+
+h1{
+  font-size: 45px;
+}
+
+h2{
+  font-size: 35px;
+}
+
+p{
+  text-align: center;
+}
+
+img{
+  width: auto;
+  height: auto;
+  
+  display: flex; 
+  justify-content: center;
+  align-items: center;
+}
